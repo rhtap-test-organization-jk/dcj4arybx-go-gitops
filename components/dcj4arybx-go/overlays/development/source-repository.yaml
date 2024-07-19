@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dcj4arybx-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/dcj4arybx-go
